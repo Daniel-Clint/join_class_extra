@@ -15,6 +15,7 @@ subject::subject(int n)
 		this->change();
 }
 
+
 void print_list_1()
 {
 	cout << ("|------------------------------------|\n");
